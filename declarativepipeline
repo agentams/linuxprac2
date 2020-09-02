@@ -18,7 +18,7 @@ pipeline{
           echo 'stge3'
             }
       }
-    stage'input')
+    stage'input'
       {
       steps{
           input('do you want to proceed')
